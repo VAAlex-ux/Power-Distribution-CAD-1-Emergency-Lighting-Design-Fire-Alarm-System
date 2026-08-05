@@ -7,7 +7,7 @@ A lighting deign for regular and emergency illuminance is developed for a first 
 <p align="center">
   1 - First Floor Lighting Design
 </p>
-**Order of Documents and Legend**
+Order of Documents and Legend
 
 The schematics representing this ProfiNET Control Fabric are ordered as follows:
 
