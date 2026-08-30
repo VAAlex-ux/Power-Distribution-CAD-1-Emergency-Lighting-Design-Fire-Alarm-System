@@ -9,8 +9,6 @@ A lighting deign for regular and emergency illuminance is developed for a first 
 </p>
 Order of Documents and Legend
 
-The schematics representing this ProfiNET Control Fabric are ordered as follows:
-
 * (AutoCAD) 1. Power Distribution 1-Model
 * (AutoCAD) 2. Power Distribution 1A-Model
 * (AutoCAD) 3. Power Distribution 2-Model
